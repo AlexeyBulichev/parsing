@@ -13,3 +13,8 @@
 - Установленные библиотеки: 
   ```bash
   pandas requests beautifulsoup4 psycopg2-binary jupyter
+- Наличие PostgreSQL:
+    ```bash
+    docker pull ghcr.io/alexeybulichev/postgres:latest
+    
+  
